@@ -1,0 +1,5 @@
+sceneSetups:
+- path: D:/Past Classes/Survey of Game Programming/Unity/Final 12-6/Final/Assets/Scenes/GameEnd.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
